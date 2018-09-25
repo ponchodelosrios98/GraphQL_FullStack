@@ -1,2 +1,7 @@
-# Lyrical-GraphQL
-Examples of usage in GraphQL in React and Nodejs
+# GraphQL Lyrical
+Post and edit lyrics and songs
+
+## Platforms used:
+- GraphQL
+- React
+- Nodejs.
